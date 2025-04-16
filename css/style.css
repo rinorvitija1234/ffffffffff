@@ -198,3 +198,99 @@ body {
     text-align: center;
     color: black; 
 }
+.map {
+    width: 1000px;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  }
+  iframe{
+    width: 300px;
+    height: 300px;
+  }
+.mapi{
+    color: blue;
+}
+.login-container {
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    
+
+}
+    
+    .pse {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(black);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        label right: 300px;
+      }
+      form {
+        background-color: white;
+        padding: 30px 40px;
+        border-radius: 15px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        width: 100%;
+        max-width: 400px;
+      }
+      
+    
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+        color: #333;
+      }
+      
+     
+      input[type="text"],
+      input[type="password"] {
+        width: 100%;
+        padding: 12px 15px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        font-size: 16px;
+        transition: border-color 0.3s;
+      }
+      
+      input[type="text"]:focus,
+      input[type="password"]:focus {
+        border-color: black;
+        outline: none;
+      }
+      
+      #login-button {
+        width: 100%;
+        padding: 12px;
+        background-color: black;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      
+      #login-button:hover {
+        background-color: black;
+      }
+
+       .paragrafi{
+        color: white;
+       }
+       .h1praa{
+        color: white;
+       }
+
+      
